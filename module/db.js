@@ -1,3 +1,4 @@
+// Use import instead of require
 const MongoClient = require("mongodb").MongoClient;
 const url =
   "mongodb+srv://qiwenxin98:Zjjxwjp@cluster0.chnfjby.mongodb.net/?retryWrites=true&w=majority";
