@@ -1,3 +1,4 @@
+// Use import instead of require
 const join = require("path").join;
 const chatFunc = (app, db)=>{
 
